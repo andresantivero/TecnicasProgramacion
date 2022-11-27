@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\bin\Debug\net5.0\ejerciciosSemanaUno.exe
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\bin\Debug\net5.0\ejerciciosSemanaUno.deps.json
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\bin\Debug\net5.0\ejerciciosSemanaUno.runtimeconfig.json
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\bin\Debug\net5.0\ejerciciosSemanaUno.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\bin\Debug\net5.0\ejerciciosSemanaUno.dll
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\bin\Debug\net5.0\ref\ejerciciosSemanaUno.dll
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\bin\Debug\net5.0\ejerciciosSemanaUno.pdb
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ejerciciosSemanaUno.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ejerciciosSemanaUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ejerciciosSemanaUno.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ejerciciosSemanaUno.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ejerciciosSemanaUno.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ejerciciosSemanaUno.dll
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ref\ejerciciosSemanaUno.dll
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ejerciciosSemanaUno.pdb
+C:\Users\Dell\source\repos\ejerciciosSemanaUno\ejerciciosSemanaUno\obj\Debug\net5.0\ejerciciosSemanaUno.genruntimeconfig.cache
